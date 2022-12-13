@@ -6,3 +6,4 @@ if __name__ == '__main__':
         summ = x // 10 + x % 10
         if x == summ + summ**2:
             print(f"Полученные числа: {x}")
+W
